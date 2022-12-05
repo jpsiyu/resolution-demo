@@ -1589,23 +1589,10 @@ atob@^2.1.2:
   resolved "https://registry.npm.taobao.org/atob/download/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha1-bZUX654DDSQ2ZmZR6GvZ9vE1M8k=
 
-autoprefixer@^9.7.2:
+autoprefixer@^9.7.2, autoprefixer@^9.7.4:
   version "9.7.4"
   resolved "https://registry.npm.taobao.org/autoprefixer/download/autoprefixer-9.7.4.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fautoprefixer%2Fdownload%2Fautoprefixer-9.7.4.tgz#f8bf3e06707d047f0641d87aee8cfb174b2a5378"
   integrity sha1-+L8+BnB9BH8GQdh67oz7F0sqU3g=
-  dependencies:
-    browserslist "^4.8.3"
-    caniuse-lite "^1.0.30001020"
-    chalk "^2.4.2"
-    normalize-range "^0.1.2"
-    num2fraction "^1.2.2"
-    postcss "^7.0.26"
-    postcss-value-parser "^4.0.2"
-
-autoprefixer@^9.7.4:
-  version "9.7.4"
-  resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-9.7.4.tgz#f8bf3e06707d047f0641d87aee8cfb174b2a5378"
-  integrity sha512-g0Ya30YrMBAEZk60lp+qfX5YQllG+S5W3GYCFvyHTvhOki0AEQJLPEcIuGRsqVwLi8FvXPVtwTGhfr38hVpm0g==
   dependencies:
     browserslist "^4.8.3"
     caniuse-lite "^1.0.30001020"
@@ -2764,9 +2751,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.1"
